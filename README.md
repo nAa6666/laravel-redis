@@ -11,7 +11,7 @@ php artisan migrate
 php artisan db:seed
 ```
 
-[app/Http/Controllers/IndexController.php](https://github.com/nAa6666/laravel-redis/blob/main/app/Http/IndexController.php)
+[app/Http/Controllers/IndexController.php](https://github.com/nAa6666/laravel-redis/blob/main/app/Http/Controllers/IndexController.php)
 
 
 ![](./public/img1.png)
